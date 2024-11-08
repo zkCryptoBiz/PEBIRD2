@@ -7695,7 +7695,7 @@ var ql = {
                                             '--framer-text-color':
                                               'rgb(255, 255, 255)',
                                           },
-                                          children: '100.000.000',
+                                          children: '1.000.000.000',
                                         }),
                                         r('p', {
                                           style: {
