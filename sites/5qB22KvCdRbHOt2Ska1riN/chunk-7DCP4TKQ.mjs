@@ -4,10 +4,10 @@ t();
 function e(a, r) {
   return {
     description:
-      'Dive into the ridiculous with PeppyBird ($PEBIRD) on the Base blockchain! Join our lovably useless bird that can\u2019t fly but can skyrocket your crypto gains. Perfect for those who love a good mess and great memes!',
+      'Dive into the ridiculous with BIRDY ($BIRDY) on the Base blockchain! Join our lovably useless bird that can\u2019t fly but can skyrocket your crypto gains. Perfect for those who love a good mess and great memes!',
     favicon: './assets/xWbe8IaKLLn3ra0QACy4vmPnSoE.png',
     socialImage: './assets/baqZfldZDyIhmnpp1eTptGAX8o.png',
-    title: 'PEPPY BIRD',
+    title: 'BIRDY',
   };
 }
 function o(a, r) {
@@ -36,7 +36,7 @@ function o(a, r) {
     },
     framerSearch: { index: !0 },
     socialImage: './assets/xWbe8IaKLLn3ra0QACy4vmPnSoE.png',
-    title: 'PEPPY BIRD',
+    title: 'BIRDY',
     viewport: 'width=device-width',
   };
 }
