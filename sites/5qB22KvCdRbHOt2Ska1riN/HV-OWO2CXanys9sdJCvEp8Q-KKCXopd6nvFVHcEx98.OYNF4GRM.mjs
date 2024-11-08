@@ -3046,7 +3046,7 @@ var Fo = { delay: 0, duration: 0.3, ease: [0.12, 0.23, 0.5, 1], type: 'tween' },
                           children: [
                             r(l.li, {
                               children: r(l.p, {
-                                children: 'LAUNCH $PEBIRD MERCH STORE',
+                                children: 'LAUNCH $BIRDY MERCH STORE',
                               }),
                             }),
                             r(l.li, {
@@ -3055,13 +3055,13 @@ var Fo = { delay: 0, duration: 0.3, ease: [0.12, 0.23, 0.5, 1], type: 'tween' },
                             r(l.li, {
                               children: r(l.p, {
                                 children:
-                                  'LAUNCH of $PEBIRD DAO FOR COMMUNITY GOVERNANCE',
+                                  'LAUNCH of $BIRDY DAO FOR COMMUNITY GOVERNANCE',
                               }),
                             }),
                             r(l.li, {
                               children: r(l.p, {
                                 children:
-                                  'ESTABLISHING $PEBIRD AS A RECOGNISED BRAND',
+                                  'ESTABLISHING $BIRDY AS A RECOGNISED BRAND',
                               }),
                             }),
                           ],
@@ -4781,7 +4781,7 @@ var _i = { delay: 0, duration: 0.3, ease: [0.12, 0.23, 0.5, 1], type: 'tween' },
                             }),
                             r(l.li, {
                               children: r(l.p, {
-                                children: 'GET $PEBIRD TRENDING',
+                                children: 'GET $BIRDY TRENDING',
                               }),
                             }),
                           ],
@@ -6043,7 +6043,7 @@ var ql = {
                                           '--framer-text-color':
                                             'rgb(255, 255, 255)',
                                         },
-                                        children: 'peppy',
+                                        children: 'BIRDY',
                                       }),
                                       r('p', {
                                         style: {
@@ -6086,7 +6086,7 @@ var ql = {
                                         '--framer-text-color':
                                           'rgb(255, 255, 255)',
                                       },
-                                      children: 'peppy',
+                                      children: 'BIRDY',
                                     }),
                                     r('p', {
                                       style: {
@@ -6125,7 +6125,7 @@ var ql = {
                                       height: '100%',
                                       id: 'pWHJ7jW57',
                                       layoutId: 'pWHJ7jW57',
-                                      ofLqZhEO8: 'BUY $PEBIRD',
+                                      ofLqZhEO8: 'BUY $BIRDY',
                                       PPM8eZNfR: 'rgb(255, 167, 34)',
                                       Rb5OgUSWE: 24,
                                       width: '100%',
@@ -6291,7 +6291,7 @@ var ql = {
                                           '--framer-text-color':
                                             'rgb(255, 255, 255)',
                                         },
-                                        children: 'contract $PEBIRD',
+                                        children: 'contract $BIRDY',
                                       }),
                                     }),
                                   },
@@ -6309,7 +6309,7 @@ var ql = {
                                           '--framer-text-color':
                                             'rgb(255, 255, 255)',
                                         },
-                                        children: 'contract $PEBIRD',
+                                        children: 'contract $BIRDY',
                                       }),
                                     }),
                                   },
@@ -6329,7 +6329,7 @@ var ql = {
                                         '--framer-text-color':
                                           'rgb(255, 255, 255)',
                                       },
-                                      children: 'contract $PEBIRD',
+                                      children: 'contract $BIRDY',
                                     }),
                                   }),
                                   className: 'framer-8fkya9',
@@ -6356,7 +6356,7 @@ var ql = {
                                             'rgb(255, 255, 255)',
                                         },
                                         children:
-                                          "PIGEON THAT CAN'T FLY. PEPPY SAY BIRDS OF A FEATHER FLOCK TOGETHER. PEPPY THINK TIME FOR CHANGE. PEPPY HAS DREAM. MANY DREAMS EVEN. PEPPY BELIEVE FUTURE ON CHAIN.",
+                                          "PIGEON THAT CAN'T FLY. BIRDY SAY BIRDS OF A FEATHER FLOCK TOGETHER. BIRDY THINK TIME FOR CHANGE. BIRDY HAS DREAM. MANY DREAMS EVEN. BIRDY BELIEVE FUTURE ON CHAIN.",
                                       }),
                                     }),
                                   },
@@ -6377,7 +6377,7 @@ var ql = {
                                           'rgb(255, 255, 255)',
                                       },
                                       children:
-                                        "PIGEON THAT CAN'T FLY. PEPPY SAY BIRDS OF A FEATHER FLOCK TOGETHER. PEPPY THINK TIME FOR CHANGE. PEPPY HAS DREAM. MANY DREAMS EVEN. PEPPY BELIEVE FUTURE ON CHAIN.",
+                                        "PIGEON THAT CAN'T FLY. BIRDY SAY BIRDS OF A FEATHER FLOCK TOGETHER. BIRDY THINK TIME FOR CHANGE. BIRDY HAS DREAM. MANY DREAMS EVEN. BIRDY BELIEVE FUTURE ON CHAIN.",
                                     }),
                                   }),
                                   className: 'framer-1cbivsh',
@@ -6903,7 +6903,7 @@ var ql = {
                                                         r('li', {
                                                           children: r('p', {
                                                             children:
-                                                              'GET $PEBIRD TRENDING',
+                                                              'GET $BIRDY TRENDING',
                                                           }),
                                                         }),
                                                       ],
@@ -7279,7 +7279,7 @@ var ql = {
                                                         r('li', {
                                                           children: r('p', {
                                                             children:
-                                                              'LAUNCH $PEBIRD MERCH STORE',
+                                                              'LAUNCH $BIRDY MERCH STORE',
                                                           }),
                                                         }),
                                                         r('li', {
@@ -7291,13 +7291,13 @@ var ql = {
                                                         r('li', {
                                                           children: r('p', {
                                                             children:
-                                                              'LAUNCH of $PEBIRD DAO FOR COMMUNITY GOVERNANCE',
+                                                              'LAUNCH of $BIRDY DAO FOR COMMUNITY GOVERNANCE',
                                                           }),
                                                         }),
                                                         r('li', {
                                                           children: r('p', {
                                                             children:
-                                                              'ESTABLISHING $PEBIRD AS A RECOGNISED BRAND',
+                                                              'ESTABLISHING $BIRDY AS A RECOGNISED BRAND',
                                                           }),
                                                         }),
                                                       ],
