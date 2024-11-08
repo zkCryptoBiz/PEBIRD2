@@ -7663,7 +7663,7 @@ var ql = {
                                             '--framer-text-color':
                                               'rgb(255, 255, 255)',
                                           },
-                                          children: '100.000.000',
+                                          children: '1.000.000.000',
                                         }),
                                         r('p', {
                                           style: {
@@ -8038,7 +8038,7 @@ var ql = {
                                       'data-framer-cursor': '1w8ybsv',
                                       children: r(er, {
                                         bZsnTBIZu: 'rgb(21, 39, 102)',
-                                        CiWo9qyo0: 'https://x.com/PeppyBirdCTO',
+                                        CiWo9qyo0: 'https://x.com/BirdySol',
                                         height: '100%',
                                         id: 'jT7ZdRlB8',
                                         layoutId: 'jT7ZdRlB8',
@@ -8053,7 +8053,7 @@ var ql = {
                                       'data-framer-cursor': '1w8ybsv',
                                       children: r(er, {
                                         bZsnTBIZu: 'rgb(21, 39, 102)',
-                                        CiWo9qyo0: 'https://t.me/PeppyBirdCTO',
+                                        CiWo9qyo0: 'https://t.me/BirdyLol',
                                         height: '100%',
                                         id: 'MwED1HNB3',
                                         jkUJRz9gR: Qr(
