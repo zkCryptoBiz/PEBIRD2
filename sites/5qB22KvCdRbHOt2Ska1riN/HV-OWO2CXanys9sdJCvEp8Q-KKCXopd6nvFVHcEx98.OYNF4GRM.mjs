@@ -3046,7 +3046,7 @@ var Fo = { delay: 0, duration: 0.3, ease: [0.12, 0.23, 0.5, 1], type: 'tween' },
                           children: [
                             r(l.li, {
                               children: r(l.p, {
-                                children: 'LAUNCH $FLYBI MERCH STORE',
+                                children: 'LAUNCH $FLYPE MERCH STORE',
                               }),
                             }),
                             r(l.li, {
@@ -3055,13 +3055,13 @@ var Fo = { delay: 0, duration: 0.3, ease: [0.12, 0.23, 0.5, 1], type: 'tween' },
                             r(l.li, {
                               children: r(l.p, {
                                 children:
-                                  'LAUNCH of $FLYBI DAO FOR COMMUNITY GOVERNANCE',
+                                  'LAUNCH of $FLYPE DAO FOR COMMUNITY GOVERNANCE',
                               }),
                             }),
                             r(l.li, {
                               children: r(l.p, {
                                 children:
-                                  'ESTABLISHING $FLYBI AS A RECOGNISED BRAND',
+                                  'ESTABLISHING $FLYPE AS A RECOGNISED BRAND',
                               }),
                             }),
                           ],
@@ -4781,7 +4781,7 @@ var _i = { delay: 0, duration: 0.3, ease: [0.12, 0.23, 0.5, 1], type: 'tween' },
                             }),
                             r(l.li, {
                               children: r(l.p, {
-                                children: 'GET $FLYBI TRENDING',
+                                children: 'GET $FLYPE TRENDING',
                               }),
                             }),
                           ],
@@ -6043,7 +6043,7 @@ var ql = {
                                           '--framer-text-color':
                                             'rgb(255, 255, 255)',
                                         },
-                                        children: 'FLYBI',
+                                        children: 'FLYPE',
                                       }),
                                       r('p', {
                                         style: {
@@ -6086,7 +6086,7 @@ var ql = {
                                         '--framer-text-color':
                                           'rgb(255, 255, 255)',
                                       },
-                                      children: 'FLYBI',
+                                      children: 'FLYPE',
                                     }),
                                     r('p', {
                                       style: {
@@ -6125,7 +6125,7 @@ var ql = {
                                       height: '100%',
                                       id: 'pWHJ7jW57',
                                       layoutId: 'pWHJ7jW57',
-                                      ofLqZhEO8: 'BUY $FLYBI',
+                                      ofLqZhEO8: 'BUY $FLYPE',
                                       PPM8eZNfR: 'rgb(255, 167, 34)',
                                       Rb5OgUSWE: 24,
                                       width: '100%',
@@ -6291,7 +6291,7 @@ var ql = {
                                           '--framer-text-color':
                                             'rgb(255, 255, 255)',
                                         },
-                                        children: 'contract $FLYBI',
+                                        children: 'contract $FLYPE',
                                       }),
                                     }),
                                   },
@@ -6309,7 +6309,7 @@ var ql = {
                                           '--framer-text-color':
                                             'rgb(255, 255, 255)',
                                         },
-                                        children: 'contract $FLYBI',
+                                        children: 'contract $FLYPE',
                                       }),
                                     }),
                                   },
@@ -6329,7 +6329,7 @@ var ql = {
                                         '--framer-text-color':
                                           'rgb(255, 255, 255)',
                                       },
-                                      children: 'contract $FLYBI',
+                                      children: 'contract $FLYPE',
                                     }),
                                   }),
                                   className: 'framer-8fkya9',
@@ -6356,7 +6356,7 @@ var ql = {
                                             'rgb(255, 255, 255)',
                                         },
                                         children:
-                                          "PIGEON THAT CAN'T FLY. FLYBI SAY BIRDS OF A FEATHER FLOCK TOGETHER. FLYBI THINK TIME FOR CHANGE. FLYBI HAS DREAM. MANY DREAMS EVEN. FLYBI BELIEVE FUTURE ON CHAIN.",
+                                          "PIGEON THAT CAN'T FLY. FLYPE SAY BIRDS OF A FEATHER FLOCK TOGETHER. FLYPE THINK TIME FOR CHANGE. FLYPE HAS DREAM. MANY DREAMS EVEN. FLYPE BELIEVE FUTURE ON CHAIN.",
                                       }),
                                     }),
                                   },
@@ -6377,7 +6377,7 @@ var ql = {
                                           'rgb(255, 255, 255)',
                                       },
                                       children:
-                                        "PIGEON THAT CAN'T FLY. FLYBI SAY BIRDS OF A FEATHER FLOCK TOGETHER. FLYBI THINK TIME FOR CHANGE. FLYBI HAS DREAM. MANY DREAMS EVEN. FLYBI BELIEVE FUTURE ON CHAIN.",
+                                        "PIGEON THAT CAN'T FLY. FLYPE SAY BIRDS OF A FEATHER FLOCK TOGETHER. FLYPE THINK TIME FOR CHANGE. FLYPE HAS DREAM. MANY DREAMS EVEN. FLYPE BELIEVE FUTURE ON CHAIN.",
                                     }),
                                   }),
                                   className: 'framer-1cbivsh',
@@ -6903,7 +6903,7 @@ var ql = {
                                                         r('li', {
                                                           children: r('p', {
                                                             children:
-                                                              'GET $FLYBI TRENDING',
+                                                              'GET $FLYPE TRENDING',
                                                           }),
                                                         }),
                                                       ],
@@ -7279,7 +7279,7 @@ var ql = {
                                                         r('li', {
                                                           children: r('p', {
                                                             children:
-                                                              'LAUNCH $FLYBI MERCH STORE',
+                                                              'LAUNCH $FLYPE MERCH STORE',
                                                           }),
                                                         }),
                                                         r('li', {
@@ -7291,13 +7291,13 @@ var ql = {
                                                         r('li', {
                                                           children: r('p', {
                                                             children:
-                                                              'LAUNCH of $FLYBI DAO FOR COMMUNITY GOVERNANCE',
+                                                              'LAUNCH of $FLYPE DAO FOR COMMUNITY GOVERNANCE',
                                                           }),
                                                         }),
                                                         r('li', {
                                                           children: r('p', {
                                                             children:
-                                                              'ESTABLISHING $FLYBI AS A RECOGNISED BRAND',
+                                                              'ESTABLISHING $FLYPE AS A RECOGNISED BRAND',
                                                           }),
                                                         }),
                                                       ],
@@ -8038,7 +8038,7 @@ var ql = {
                                       'data-framer-cursor': '1w8ybsv',
                                       children: r(er, {
                                         bZsnTBIZu: 'rgb(21, 39, 102)',
-                                        CiWo9qyo0: 'https://x.com/FlyBirdOnSol',
+                                        CiWo9qyo0: 'https://x.com/FLYPErdOnSol',
                                         height: '100%',
                                         id: 'jT7ZdRlB8',
                                         layoutId: 'jT7ZdRlB8',
@@ -8053,7 +8053,7 @@ var ql = {
                                       'data-framer-cursor': '1w8ybsv',
                                       children: r(er, {
                                         bZsnTBIZu: 'rgb(21, 39, 102)',
-                                        CiWo9qyo0: 'https://t.me/FlyBirdPortal',
+                                        CiWo9qyo0: 'https://t.me/FLYPErdPortal',
                                         height: '100%',
                                         id: 'MwED1HNB3',
                                         jkUJRz9gR: Qr(
