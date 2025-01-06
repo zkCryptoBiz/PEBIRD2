@@ -8038,7 +8038,7 @@ var ql = {
                                       'data-framer-cursor': '1w8ybsv',
                                       children: r(er, {
                                         bZsnTBIZu: 'rgb(21, 39, 102)',
-                                        CiWo9qyo0: 'https://x.com/FLYPErdOnSol',
+                                        CiWo9qyo0: 'https://x.com/FlyBirdOnSol',
                                         height: '100%',
                                         id: 'jT7ZdRlB8',
                                         layoutId: 'jT7ZdRlB8',
@@ -8053,7 +8053,7 @@ var ql = {
                                       'data-framer-cursor': '1w8ybsv',
                                       children: r(er, {
                                         bZsnTBIZu: 'rgb(21, 39, 102)',
-                                        CiWo9qyo0: 'https://t.me/FLYPErdPortal',
+                                        CiWo9qyo0: 'https://t.me/FlyBirdPortal',
                                         height: '100%',
                                         id: 'MwED1HNB3',
                                         jkUJRz9gR: Qr(
