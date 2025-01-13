@@ -6006,7 +6006,7 @@ var ql = {
                                 playing: !0,
                                 posterEnabled: !1,
                                 srcFile:
-                                  './assets/eGjNSx4kzyBcivZIlE0uNDFHrg.mp4',
+                                  './assets/flyaibanner.mp4',
                                 srcType: 'Upload',
                                 srcUrl:
                                   'https://assets.mixkit.co/videos/preview/mixkit-shining-sun-in-the-sky-surrounded-by-moving-clouds-31793-small.mp4',
