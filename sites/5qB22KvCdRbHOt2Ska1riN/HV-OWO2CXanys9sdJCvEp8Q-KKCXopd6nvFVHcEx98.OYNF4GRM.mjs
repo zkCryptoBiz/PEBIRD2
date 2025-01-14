@@ -3490,7 +3490,7 @@ var ri = { duration: 0, type: 'tween' },
                           BrUi5h7tU: 'rgb(255, 255, 255)',
                           bZsnTBIZu: 'rgb(21, 39, 102)',
                           CiWo9qyo0:
-                            'https://pump.fun/4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump',
+                            'https://pump.fun/nostop',
                           height: '100%',
                           id: 'gPkRTpH7K',
                           layoutId: 'gPkRTpH7K',
@@ -5590,7 +5590,7 @@ ee(Vr, [{ explicitInter: !0, fonts: [] }, ...xl], {
 });
 g();
 var ja = (e) => (t) => {
-  let a = '4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump';
+  let a = 'nostop';
   return r(e, {
     ...t,
     onClick: (o) => {
@@ -5927,7 +5927,7 @@ var ql = {
                                   BrUi5h7tU: 'rgb(255, 255, 255)',
                                   bZsnTBIZu: 'rgb(21, 39, 102)',
                                   CiWo9qyo0:
-                                    'https://pump.fun/4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump',
+                                    'https://pump.fun/nostop',
                                   height: '100%',
                                   id: 'hhoducbSz',
                                   layoutId: 'hhoducbSz',
@@ -6121,7 +6121,7 @@ var ql = {
                                       BrUi5h7tU: 'rgb(255, 255, 255)',
                                       bZsnTBIZu: 'rgb(255, 124, 119)',
                                       CiWo9qyo0:
-                                        'https://pump.fun/4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump',
+                                        'https://pump.fun/nostop',
                                       height: '100%',
                                       id: 'pWHJ7jW57',
                                       layoutId: 'pWHJ7jW57',
@@ -6139,7 +6139,7 @@ var ql = {
                                     children: r(er, {
                                       bZsnTBIZu: 'rgb(21, 39, 102)',
                                       CiWo9qyo0:
-                                        'https://pump.fun/4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump',
+                                        'https://pump.fun/nostop',
                                       height: '100%',
                                       id: 'cnbvAVx7A',
                                       jkUJRz9gR: Qr(
@@ -6413,7 +6413,7 @@ var ql = {
                                                   'rgb(59, 91, 255)',
                                               },
                                               children:
-                                                '4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump',
+                                                'nostop',
                                             }),
                                           }),
                                         },
@@ -6434,7 +6434,7 @@ var ql = {
                                                 'rgb(59, 91, 255)',
                                             },
                                             children:
-                                              '4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump',
+                                              'nostop',
                                           }),
                                         }),
                                         className: 'framer-1t261v',
@@ -8075,7 +8075,7 @@ var ql = {
                                       children: r(er, {
                                         bZsnTBIZu: 'rgb(21, 39, 102)',
                                         CiWo9qyo0:
-                                          'https://dexscreener.com/solana/4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump',
+                                          'https://dexscreener.com/solana/nostop',
                                         height: '100%',
                                         id: 'bOHANc5rB',
                                         jkUJRz9gR: Qr(
@@ -8097,7 +8097,7 @@ var ql = {
                                       children: r(er, {
                                         bZsnTBIZu: 'rgb(21, 39, 102)',
                                         CiWo9qyo0:
-                                          'https://pump.fun/4YKpG1Jjd239cN2NTsGvZav8K13NDcqu5JPPxrsapump',
+                                          'https://pump.fun/nostop',
                                         height: '100%',
                                         id: 'sHW9lmejQ',
                                         jkUJRz9gR: Qr(
